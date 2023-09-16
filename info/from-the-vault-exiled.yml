@@ -1,0 +1,19 @@
+---
+object: set
+id: 6254693f-c620-4e47-8bab-01085f8c3ffb
+code: v09
+mtgo_code: v09
+arena_code: v09
+tcgplayer_id: 48
+name: 'From the Vault: Exiled'
+uri: https://api.scryfall.com/sets/6254693f-c620-4e47-8bab-01085f8c3ffb
+scryfall_uri: https://scryfall.com/sets/v09
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av09&unique=prints
+released_at: '2009-08-28'
+set_type: from_the_vault
+card_count: 15
+printed_size: 15
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/v09.svg?1694404800
